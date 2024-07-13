@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20상수의%10깃허브%20&height=300&fontSize=100&textBg=true&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20상수의깃허브%20&height=300&fontSize=100&textBg=true&animation=fadeIn)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjamponglover&show_icons=true&theme=radical)
