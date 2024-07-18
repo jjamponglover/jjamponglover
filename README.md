@@ -1,6 +1,13 @@
 <!--
 ## Hi there 👋
 
+1  class Person {
+2      constructor() {
+3        this.name = "Sangsu Lee";
+4        this.traits = ["DESIGN", "DEV"];
+5        this.age = new Date().getFullYear() - 1997;
+6      }
+7  }
 
 **jjamponglover/jjamponglover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,12 +41,4 @@ Here are some ideas to get you started:
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjamponglover&layout=compact&bg_color=180,86fefc,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
 
-1  class Person {
-2      constructor() {
-3        this.name = "Sangsu Lee";
-4        this.traits = ["DESIGN", "DEV"];
-5        this.age = new Date().getFullYear() - 1997;
-6      }
-7  }
