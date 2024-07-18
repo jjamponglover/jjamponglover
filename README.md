@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjamponglover&layout=compact)
 1  class Person {
 2      constructor() {
-3        this.name = "Anurag Hazra";
+3        this.name = "Sangsu Lee";
 4        this.traits = ["DESIGN", "DEV"];
-5        this.age = 23;                                                      
+5        this.age = new Date().getFullYear() - 1997;
 6      }
 7  }
