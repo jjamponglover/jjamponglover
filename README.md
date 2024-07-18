@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&text=상수의깃허브&height=300&fontSize=100&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=green&text=상수의깃허브&height=300&fontSize=100&animation=fadeIn)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjamponglover)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjamponglover&layout=compact)
 
 1  class Person {
