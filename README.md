@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&text=상수의깃허브&height=300&fontSize=100&animation=fadeIn)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjamponglover&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjamponglover)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjamponglover&layout=compact)
 
 1  class Person {
