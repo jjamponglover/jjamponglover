@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=2EFEF7&text=상수의깃허브&height=300&fontSize=100&animation=fadeIn)
-
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=8afdff&height=120&text=Hello!%20I'm%20Sangsu&animation=fadeIn&fontColor=000000&fontSize=70" />
