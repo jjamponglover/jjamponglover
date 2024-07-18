@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=2EFEF7&text=상수의깃허브&height=300&fontSize=100&animation=fadeIn)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjamponglover)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjamponglover&layout=compact)
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=8afdff&height=120&text=Hello!%20I'm%20Sangsu&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
