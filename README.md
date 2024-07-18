@@ -20,8 +20,8 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=ffffff&height=120&text=Hello!%20I'm%20Sangsu&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 도전하고 성취하는 것을 좋아하는 개발자 입니다.</li><li> 저는 말이많은 개발자입니다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About me </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 반도체 회로 설계 개발자가 되기 위해 노력중 </li><li> 하만 세미콘 아카데미 반도체 설계 교육 수료 </li><li> 단국대학교 응용컴퓨터공학과 졸업 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
