@@ -33,7 +33,8 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">
-         <img alt="Static Badge" src="https://img.shields.io/badge/C-00599C"> <img alt="Static Badge" src="https://img.shields.io/badge/Verilog-08298A"> <img alt="Static Badge" src="https://img.shields.io/badge/Vivado-F2F5A9">
+        <img alt="Static Badge" src="https://img.shields.io/badge/C-00599C"> <img alt="Static Badge" src="https://img.shields.io/badge/Verilog-08298A"> <img alt="Static Badge" src="https://img.shields.io/badge/Vivado-F2F5A9">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Vitis-DF0101"> <img alt="Static Badge" src="https://img.shields.io/badge/STM32-2ECCFA">
     </div>
         <img src="https://github-readme-stats.vercel.app/api?username=jjamponglover&theme=transparent&show_icons=true"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjamponglover&layout=compact&theme=transparent&show_icons=true"
