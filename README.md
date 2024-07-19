@@ -1,6 +1,7 @@
 <!--
 ## Hi there 👋
 <a href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+-링크 연동되는 뱃지 href에 링크입력, style에 설명 입력
 1  class Person {
 2      constructor() {
 3        this.name = "Sangsu Lee";
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Verilog-08298A"> <img alt="Static Badge" src="https://img.shields.io/badge/C-00599C">
+         <img alt="Static Badge" src="https://img.shields.io/badge/C-00599C"> <img alt="Static Badge" src="https://img.shields.io/badge/Verilog-08298A"> <img alt="Static Badge" src="https://img.shields.io/badge/Vivado-F2F5A9">
     </div>
         <img src="https://github-readme-stats.vercel.app/api?username=jjamponglover&theme=transparent&show_icons=true"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjamponglover&layout=compact&theme=transparent&show_icons=true"
