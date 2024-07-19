@@ -42,7 +42,6 @@ Here are some ideas to get you started:
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <details>
 
 
 
